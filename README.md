@@ -33,17 +33,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zero123gui&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zero123gui&show_icons=true" />
-</picture>
----
-
 ### 🤝 Conecte-se Comigo
 
 <div align="center">
