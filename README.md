@@ -3,18 +3,17 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 Desenvolvedor | Apaixonado por Tecnologia e Código Limpo</h3>
+  <h3>👨‍💻 Desenvolvedor Backend | Estagiário de TI</h3>
   <p>Bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e contribuições.</p>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando em **[Seu Projeto Atual ou Empresa]**
-- 🌱 Atualmente aprendendo **[O que você está estudando no momento, ex: React, Node.js, Python]**
-- 👯 Procuro colaborar em **Projetos Open Source**
-- 💬 Me pergunte sobre **[Suas principais habilidades, ex: JavaScript, arquitetura de software]**
-- 📫 Como chegar até mim: **[Seu email]**
+- 🔭 Atualmente estagiando na **Itaipu Binacional** na área de Sistemas de Suporte
+- 🌱 Atualmente aprendendo **Java | PostgreSQL | Hibernate**
+- 💬 Me pergunte sobre **Arquitetura de Software**
+- 📫 Como chegar até mim: **gktmiller@gmail.com**
 
 ---
 
