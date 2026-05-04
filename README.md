@@ -36,11 +36,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/zero123gui">
-    <img src="https://github-readme-stats.vercel.app/api?username=zero123gui&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/zero123gui">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero123gui&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Linguagens mais usadas" />
+  <a href="https://github.com/zero123gui/equipe3_es2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zero123gui&repo=equipe3_es2&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Card do Repositório" />
   </a>
 </div>
 
